@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a08e71b3897ac4a4390540337596040b, type: 3}
+  m_Name: PrefabSettings
+  m_EditorClassIdentifier: 
+  _fruitPrefab: {fileID: 6031197379891556135, guid: f685c53f7cacbcd47a052627668be141, type: 3}
+  _backgroundPrefab: {fileID: 7658565239041909553, guid: 30eb100eb4ff09c489c51a4cdcfb5ec2, type: 3}
